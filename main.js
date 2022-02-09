@@ -1,8 +1,8 @@
 canvas = document.getElementById('myCanvas');
 ctx = canvas.getContext("2d");
 car_image = "car2.png";
-greencar_width = 750;
-greencar_height = 100;
+greencar_width = 100;
+greencar_height = 150;
 
 background_image = "parkingLot.jpg";
 greencar_image = "car2.png";
